@@ -7,6 +7,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: auto;
+  font-family: sans-serif;
 }
 
 .Container {
@@ -36,7 +37,6 @@ body {
   background: #0e6dd4;
   text-decoration: none;
   color: white;
-  font-family: sans-serif;
   letter-spacing: 1px;
   border-radius: 8px;
 }
